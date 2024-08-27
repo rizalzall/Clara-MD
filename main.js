@@ -176,12 +176,6 @@ async function connectionUpdate(update) {
    ✓ Day: ${currentTime.toLocaleDateString('en-US', { weekday: 'long' })}
    ✓ Description: *Bot ${name || 'Clara-MD'} by Zeltoria*.
         `;
-        conn.sendMessage(nomorwa + "@s.whatsapp.net", {
-            text: infoMsg,
-            mentions: [nomorwa + "@s.whatsapp.net", jid]
-        }, {
-            quoted: null
-        })
         chalk.yellow('R E A D Y');
     }
     if (connection == 'close') {
