@@ -83,7 +83,7 @@ const handler = async (m, { conn, args, text, quoted }) => {
 };
 
 handler.help = ['sg'];
-handler.tags = ['downloader'];
+handler.tags = ['owner'];
 handler.command = /^(sg|savegithub)$/i;
 handler.owner = true;
 
