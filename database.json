@@ -1,0 +1,358 @@
+{
+  "users": {
+    "6281333154367@s.whatsapp.net": {
+      "exp": 1997,
+      "limit": 10,
+      "udahklaim": 0,
+      "udahrampok": 0,
+      "udahopenbo": 0,
+      "daftar": true,
+      "nama": "zall",
+      "pasangan": "",
+      "age": -1,
+      "regTime": 1724800941042,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "skata": 0,
+      "lastspam": 0,
+      "koin": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      },
+      "role": "Newbie ㋡",
+      "umur": 18
+    },
+    "6283879361228@s.whatsapp.net": {
+      "exp": 617,
+      "limit": 10,
+      "udahklaim": 0,
+      "udahrampok": 0,
+      "udahopenbo": 0,
+      "daftar": false,
+      "nama": "Haikal",
+      "pasangan": "",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "skata": 0,
+      "lastspam": 0,
+      "koin": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      },
+      "role": "Newbie ㋡",
+      "umur": -1
+    },
+    "6282220618853@s.whatsapp.net": {
+      "exp": 123,
+      "limit": 10,
+      "udahklaim": 0,
+      "udahrampok": 0,
+      "udahopenbo": 0,
+      "daftar": true,
+      "nama": "oww",
+      "pasangan": "",
+      "age": -1,
+      "regTime": 1724801139464,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "skata": 0,
+      "lastspam": 0,
+      "koin": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      },
+      "role": "Newbie ㋡",
+      "umur": 19
+    },
+    "6281325629403@s.whatsapp.net": {
+      "exp": 20,
+      "limit": 10,
+      "udahklaim": 0,
+      "udahrampok": 0,
+      "udahopenbo": 0,
+      "daftar": false,
+      "nama": "𝓐𝔂𝓾 𝓛𝓮𝓼𝓽𝓪𝓻𝓲🍁",
+      "pasangan": "",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "skata": 0,
+      "lastspam": 0,
+      "koin": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      },
+      "role": "Newbie ㋡",
+      "umur": -1
+    }
+  },
+  "chats": {
+    "6281333154367@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "getmsg": true,
+      "viewonce": false,
+      "antiToxic": false,
+      "chatbot": false,
+      "expired": 0,
+      "antiBot": false,
+      "premnsfw": false
+    },
+    "6282220618853@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "getmsg": true,
+      "viewonce": false,
+      "antiToxic": false,
+      "chatbot": false,
+      "expired": 0,
+      "antiBot": false,
+      "premnsfw": false
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "getmsg": true,
+      "viewonce": false,
+      "antiToxic": false,
+      "chatbot": false,
+      "expired": 0,
+      "antiBot": false,
+      "premnsfw": false
+    },
+    "120363030444365532@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "getmsg": true,
+      "viewonce": false,
+      "antiToxic": false,
+      "chatbot": false,
+      "expired": 0,
+      "antiBot": false,
+      "premnsfw": false
+    }
+  },
+  "stats": {
+    "main-menulist.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1724804451919,
+      "lastSuccess": 1724804451919
+    },
+    "main-daftar.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1724801142285,
+      "lastSuccess": 1724801142285
+    },
+    "downloader-play.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1724804464725,
+      "lastSuccess": 1724800978048
+    },
+    "downloader-yta.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1724800986195,
+      "lastSuccess": 0
+    },
+    "downloader-ytv.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1724800994902,
+      "lastSuccess": 0
+    },
+    "owner-gp.js": {
+      "total": 12,
+      "success": 11,
+      "last": 1724804860268,
+      "lastSuccess": 1724804860268
+    },
+    "info-creator.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724801122796,
+      "lastSuccess": 1724801122796
+    },
+    "info-ping.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724801130291,
+      "lastSuccess": 1724801130291
+    },
+    "owner-pinchat.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1724804628013,
+      "lastSuccess": 1724804628013
+    },
+    "owner-sf.js": {
+      "total": 17,
+      "success": 12,
+      "last": 1724805302907,
+      "lastSuccess": 1724805302907
+    },
+    "owner-exec2.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1724804790482,
+      "lastSuccess": 1724804790482
+    },
+    "downloader-pinterest.js": {
+      "total": 14,
+      "success": 11,
+      "last": 1724804618094,
+      "lastSuccess": 1724804618094
+    },
+    "owner-sg.js": {
+      "total": 9,
+      "success": 6,
+      "last": 1724805313328,
+      "lastSuccess": 1724805313328
+    },
+    "owner-backupsc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724802814884,
+      "lastSuccess": 1724802814884
+    },
+    "owner-gg.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1724804825280,
+      "lastSuccess": 1724804825280
+    },
+    "internet-fetch.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724804054280,
+      "lastSuccess": 1724804054280
+    },
+    "group-delete.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724804067896,
+      "lastSuccess": 1724804067896
+    },
+    "owner-getfile.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724804844232,
+      "lastSuccess": 1724804844232
+    },
+    "owner-getdb.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724804879161,
+      "lastSuccess": 1724804879161
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6283879361228@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "antidelete": false,
+      "restrict": false,
+      "autorestart": true,
+      "restartDB": 0
+    }
+  }
+}
