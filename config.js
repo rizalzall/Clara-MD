@@ -19,7 +19,7 @@ global.namebot = '𝘼𝙡𝙗𝙚𝙙𝙤 𝙈𝘿'
 global.wm = '© 𝘼𝙡𝙗𝙚𝙙𝙤 𝙈𝘿'
 global.stickpack = '𝚉𝚊𝚕𝚕 ×፝֟͜×'
 global.stickauth = '© 𝚉𝚊𝚕𝚕 ×፝֟͜×'
-global.fotonya = 'https://telegra.ph/file/7a72c74871ac2fb87b8df.jpg'
+global.fotonya = 'https://telegra.ph/file/f9f64dcaa9aafce7ceccb.jpg'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/zallzall02'
 global.sgh = 'https://github.com/rizalmhmd'
