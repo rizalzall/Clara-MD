@@ -1,7 +1,7 @@
 {
   "users": {
     "6281333154367@s.whatsapp.net": {
-      "exp": 1997,
+      "exp": 2444,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
@@ -35,7 +35,7 @@
       "umur": 18
     },
     "6283879361228@s.whatsapp.net": {
-      "exp": 617,
+      "exp": 783,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
@@ -241,28 +241,28 @@
       "lastSuccess": 1724801142285
     },
     "downloader-play.js": {
-      "total": 3,
-      "success": 2,
-      "last": 1724804464725,
-      "lastSuccess": 1724800978048
+      "total": 6,
+      "success": 5,
+      "last": 1724805923298,
+      "lastSuccess": 1724805923298
     },
     "downloader-yta.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1724800986195,
-      "lastSuccess": 0
+      "total": 3,
+      "success": 1,
+      "last": 1724805704237,
+      "lastSuccess": 1724805704237
     },
     "downloader-ytv.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1724800994902,
-      "lastSuccess": 0
+      "total": 4,
+      "success": 2,
+      "last": 1724806046721,
+      "lastSuccess": 1724806046721
     },
     "owner-gp.js": {
-      "total": 12,
-      "success": 11,
-      "last": 1724804860268,
-      "lastSuccess": 1724804860268
+      "total": 15,
+      "success": 14,
+      "last": 1724805850358,
+      "lastSuccess": 1724805850358
     },
     "info-creator.js": {
       "total": 2,
@@ -271,10 +271,10 @@
       "lastSuccess": 1724801122796
     },
     "info-ping.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1724801130291,
-      "lastSuccess": 1724801130291
+      "total": 3,
+      "success": 3,
+      "last": 1724808673178,
+      "lastSuccess": 1724808673178
     },
     "owner-pinchat.js": {
       "total": 8,
@@ -283,16 +283,16 @@
       "lastSuccess": 1724804628013
     },
     "owner-sf.js": {
-      "total": 17,
-      "success": 12,
-      "last": 1724805302907,
-      "lastSuccess": 1724805302907
+      "total": 20,
+      "success": 15,
+      "last": 1724805872956,
+      "lastSuccess": 1724805872956
     },
     "owner-exec2.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1724804790482,
-      "lastSuccess": 1724804790482
+      "total": 7,
+      "success": 7,
+      "last": 1724805613321,
+      "lastSuccess": 1724805613321
     },
     "downloader-pinterest.js": {
       "total": 14,
@@ -301,10 +301,10 @@
       "lastSuccess": 1724804618094
     },
     "owner-sg.js": {
-      "total": 9,
-      "success": 6,
-      "last": 1724805313328,
-      "lastSuccess": 1724805313328
+      "total": 12,
+      "success": 9,
+      "last": 1724805959593,
+      "lastSuccess": 1724805959593
     },
     "owner-backupsc.js": {
       "total": 2,
@@ -331,16 +331,22 @@
       "lastSuccess": 1724804067896
     },
     "owner-getfile.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1724804844232,
-      "lastSuccess": 1724804844232
+      "total": 3,
+      "success": 3,
+      "last": 1724805628367,
+      "lastSuccess": 1724805628367
     },
     "owner-getdb.js": {
       "total": 2,
       "success": 2,
       "last": 1724804879161,
       "lastSuccess": 1724804879161
+    },
+    "owner-updb.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1724805390926,
+      "lastSuccess": 1724805390926
     }
   },
   "msgs": {},
