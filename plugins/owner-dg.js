@@ -57,18 +57,18 @@ async function deleteFileFromGitHub(filePath) {
     }
 }
 
-    const handler = async (m, { conn, args, text, quoted }) => {
-        if (!text) return m.reply('Mau hapus plugin di path apa?');
+const handler = async (m, { conn, args, text, quoted }) => {
+    if (!text) return m.reply('Mau hapus plugin di path apa?');
 
-        const filePath = `${text.trim()}`;
+    const filePath = text.trim();
 
-        try {
-            const result = await deleteFileFromGitHub(filePath);
-            m.reply(result);
-        } catch (error) {
-            m.reply(error.message);
-        }
-
+    try {
+        const result = await deleteFileFromGitHub(filePath);
+        m.reply(result);
+    } catch (error) {
+        m.reply(error.message);
+    }
+};
 
 handler.help = ['dg'];
 handler.tags = ['owner'];
