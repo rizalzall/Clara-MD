@@ -3,7 +3,7 @@ import path from 'path';
 import { promises as fs } from 'fs'; // Menggunakan fs.promises untuk dukungan async/await
 
 // Token GitHub dan informasi repository
-const GITHUB_TOKEN = '[TOKEN_REMOVED]'; // Ganti dengan token GitHub Anda
+const GITHUB_TOKEN = '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'; // Ganti dengan token GitHub Anda
 const REPO_OWNER = 'rizalzall';
 const REPO_NAME = 'Clara-MD';
 
