@@ -1,6 +1,6 @@
-const fetch = require('node-fetch');
-const path = require('path');
-const fs = require('fs').promises; // Menggunakan fs.promises untuk dukungan async/await
+import fetch from 'node-fetch';
+import path from 'path';
+import { promises as fs } from 'fs'; // Menggunakan fs.promises untuk dukungan async/await
 
 // Token GitHub dan informasi repository
 const GITHUB_TOKEN = '[TOKEN_REMOVED]'; // Ganti dengan token GitHub Anda
