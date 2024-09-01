@@ -1,7 +1,7 @@
 {
   "users": {
     "6281333154367@s.whatsapp.net": {
-      "exp": 2444,
+      "exp": 3561,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
@@ -35,7 +35,7 @@
       "umur": 18
     },
     "6283879361228@s.whatsapp.net": {
-      "exp": 783,
+      "exp": 1079,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
@@ -69,7 +69,7 @@
       "umur": -1
     },
     "6282220618853@s.whatsapp.net": {
-      "exp": 123,
+      "exp": 1968,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
@@ -103,13 +103,47 @@
       "umur": 19
     },
     "6281325629403@s.whatsapp.net": {
-      "exp": 20,
+      "exp": 32,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
       "udahopenbo": 0,
       "daftar": false,
       "nama": "𝓐𝔂𝓾 𝓛𝓮𝓼𝓽𝓪𝓻𝓲🍁",
+      "pasangan": "",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "skata": 0,
+      "lastspam": 0,
+      "koin": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      },
+      "role": "Newbie ㋡",
+      "umur": -1
+    },
+    "6285218150562@s.whatsapp.net": {
+      "exp": 24,
+      "limit": 10,
+      "udahklaim": 0,
+      "udahrampok": 0,
+      "udahopenbo": 0,
+      "daftar": false,
+      "nama": "fauqixzz",
       "pasangan": "",
       "age": -1,
       "regTime": -1,
@@ -229,10 +263,10 @@
   },
   "stats": {
     "main-menulist.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1724804451919,
-      "lastSuccess": 1724804451919
+      "total": 11,
+      "success": 11,
+      "last": 1725199221816,
+      "lastSuccess": 1725199221816
     },
     "main-daftar.js": {
       "total": 3,
@@ -241,16 +275,16 @@
       "lastSuccess": 1724801142285
     },
     "downloader-play.js": {
-      "total": 6,
-      "success": 5,
-      "last": 1724805923298,
-      "lastSuccess": 1724805923298
+      "total": 7,
+      "success": 6,
+      "last": 1725194291624,
+      "lastSuccess": 1725194291624
     },
     "downloader-yta.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1724805704237,
-      "lastSuccess": 1724805704237
+      "total": 4,
+      "success": 2,
+      "last": 1725194317969,
+      "lastSuccess": 1725194317969
     },
     "downloader-ytv.js": {
       "total": 4,
@@ -259,10 +293,10 @@
       "lastSuccess": 1724806046721
     },
     "owner-gp.js": {
-      "total": 15,
-      "success": 14,
-      "last": 1724805850358,
-      "lastSuccess": 1724805850358
+      "total": 21,
+      "success": 20,
+      "last": 1725195141529,
+      "lastSuccess": 1725195141529
     },
     "info-creator.js": {
       "total": 2,
@@ -271,10 +305,10 @@
       "lastSuccess": 1724801122796
     },
     "info-ping.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1724808673178,
-      "lastSuccess": 1724808673178
+      "total": 4,
+      "success": 4,
+      "last": 1725198878197,
+      "lastSuccess": 1725198878197
     },
     "owner-pinchat.js": {
       "total": 8,
@@ -283,16 +317,16 @@
       "lastSuccess": 1724804628013
     },
     "owner-sf.js": {
-      "total": 20,
-      "success": 15,
-      "last": 1724805872956,
-      "lastSuccess": 1724805872956
+      "total": 22,
+      "success": 16,
+      "last": 1725199158611,
+      "lastSuccess": 1725199158611
     },
     "owner-exec2.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1724805613321,
-      "lastSuccess": 1724805613321
+      "total": 18,
+      "success": 18,
+      "last": 1725199082033,
+      "lastSuccess": 1725199082033
     },
     "downloader-pinterest.js": {
       "total": 14,
@@ -301,10 +335,10 @@
       "lastSuccess": 1724804618094
     },
     "owner-sg.js": {
-      "total": 12,
-      "success": 9,
-      "last": 1724805959593,
-      "lastSuccess": 1724805959593
+      "total": 15,
+      "success": 11,
+      "last": 1725199316178,
+      "lastSuccess": 1725199316178
     },
     "owner-backupsc.js": {
       "total": 2,
@@ -331,10 +365,10 @@
       "lastSuccess": 1724804067896
     },
     "owner-getfile.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1724805628367,
-      "lastSuccess": 1724805628367
+      "total": 4,
+      "success": 4,
+      "last": 1725199096666,
+      "lastSuccess": 1725199096666
     },
     "owner-getdb.js": {
       "total": 2,
@@ -347,6 +381,30 @@
       "success": 2,
       "last": 1724805390926,
       "lastSuccess": 1724805390926
+    },
+    "owner-exec.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725194166386,
+      "lastSuccess": 1725194166386
+    },
+    "vn-bot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725194154599,
+      "lastSuccess": 1725194154599
+    },
+    "tools-denc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725199279369,
+      "lastSuccess": 1725199279369
+    },
+    "enable.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725199381807,
+      "lastSuccess": 1725199381807
     }
   },
   "msgs": {},
