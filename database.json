@@ -1,7 +1,7 @@
 {
   "users": {
     "6281333154367@s.whatsapp.net": {
-      "exp": 3561,
+      "exp": 3605,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
@@ -35,7 +35,7 @@
       "umur": 18
     },
     "6283879361228@s.whatsapp.net": {
-      "exp": 1079,
+      "exp": 1086,
       "limit": 10,
       "udahklaim": 0,
       "udahrampok": 0,
@@ -401,10 +401,10 @@
       "lastSuccess": 1725199279369
     },
     "enable.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1725199381807,
-      "lastSuccess": 1725199381807
+      "total": 3,
+      "success": 3,
+      "last": 1725270307170,
+      "lastSuccess": 1725270307170
     }
   },
   "msgs": {},
